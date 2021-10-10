@@ -5,3 +5,9 @@ Meus estudos de Inteligência Artificial e Rede Neurais com o livro Mãos à Obr
 Ele é dividido em duas partes: **Os Fundamentos do Aprendizado de Máquina** e **Redes Neurais e Aprendizado Profundo**. A primeira parte começa no Capítulo 1 e vai até o Capítulo 8. A segunda parte começa no Capítulo 9 e termina no Capítulo 16. Além disso, possui 5 apêndices (do A até o E).
 
 Dentro das pastas desse reposítorio encontram-se os meus estudos com tudo descrito e explicado.
+
+Para acessar os documentos usados e os arquivos com os gabaritos e códigos mais detalhados, acesse:
+
+- https://github.com/ageron/handson-ml (1ª Edição)
+
+- https://github.com/ageron/handson-ml2 (2ª Edição)
